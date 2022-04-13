@@ -10,4 +10,7 @@ cp -i vim/vimrc ~/.vimrc
 # screen 
 cp screen/screenrc ~/.screenrc
 
-`
+
+# git config
+sh git/config.sh
+
